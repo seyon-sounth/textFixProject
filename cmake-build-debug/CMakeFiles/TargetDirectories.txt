@@ -1,0 +1,3 @@
+C:/Users/sandeep/CLionProjects/testFixProject/cmake-build-debug/CMakeFiles/testFixProject.dir
+C:/Users/sandeep/CLionProjects/testFixProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandeep/CLionProjects/testFixProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

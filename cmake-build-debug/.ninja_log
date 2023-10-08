@@ -1,0 +1,11 @@
+# ninja log v5
+14	721	7185015603479608	CMakeFiles/testFixProject.dir/main.cpp.obj	d57c5f0185aa6566
+26	793	7185015604179466	CMakeFiles/testFixProject.dir/A1P3/Orders.cpp.obj	243a6db926404d6
+33	821	7185015604479451	CMakeFiles/testFixProject.dir/A1P3/OrdersDriver.cpp.obj	5d7a4951322e6406
+1	1001	7185015606259446	CMakeFiles/testFixProject.dir/A1P1/MapDriver.cpp.obj	82300858d29f4631
+723	1377	7185015610039504	CMakeFiles/testFixProject.dir/A1P2/PlayerDriver.cpp.obj	678e03221dfc1389
+821	1383	7185015610099440	CMakeFiles/testFixProject.dir/A1P4/CardsDriver.cpp.obj	331457ac17026a6e
+793	1448	7185015610769397	CMakeFiles/testFixProject.dir/A1P4/Cards.cpp.obj	9691d4198bb3e02c
+11	952	7185018531319424	CMakeFiles/testFixProject.dir/A1P2/Player.cpp.obj	3623b8e55818d571
+4	1007	7185019002259482	CMakeFiles/testFixProject.dir/A1P1/Map.cpp.obj	f0ae312a52fccbf1
+4	910	7185019550669401	CMakeFiles/testFixProject.dir/A1P5/GameEngine.cpp.obj	2a6eabd29b5e654
